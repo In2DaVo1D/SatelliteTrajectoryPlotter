@@ -14,3 +14,9 @@ Main idea - This script constructs the route taken by a satellite orbiting the E
 - Script name : lab1_me.py
 
 - Variant : 1
+
+- Results :
+
+![Figure_1](https://github.com/In2DaVo1D/SatelliteTrajectoryPlotter/assets/138278095/9b3b414f-e1c9-42dd-b835-1aa2c6f0290d)
+
+![Figure_2 (1)](https://github.com/In2DaVo1D/SatelliteTrajectoryPlotter/assets/138278095/49c21948-6284-4a0f-aa37-058d87338622)
